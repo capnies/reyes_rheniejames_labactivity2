@@ -1,6 +1,6 @@
 # Student Data Management System (Lab Activity 2)
 
-### Author: Rhenie James C. Reyes
+#### Author: Rhenie James C. Reyes
 ##### DISCLAIMER: This file (README) is AI assisted to improve the readability and flow of the file.
 
 This is a Python program that stores and processes a structured student data which includes: ID, Name, Program, and Year Level. All these data can be edited inside the python program as long as it is running. It does not use a database which stores the data even after the program has ended, but rather, an in-memory data structures that terminates after the process. This program stores and process structured student data using strings, tuples, lists, and dictionaries, with full Create, Read, Update, and Delete (CRUD) functionality.
